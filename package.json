@@ -1,0 +1,26 @@
+{
+  "name": "cours-notes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BySnoO/cours-notes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BySnoO/cours-notes-api/issues"
+  },
+  "homepage": "https://github.com/BySnoO/cours-notes-api#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.3"
+  }
+}
