@@ -4,44 +4,31 @@
   "description": "API de notes Markdown avec Express",
   "main": "server.js",
   "type": "module",
-
-
-"jest": {
-  "testEnvironment": "node"
-},
-
+  "jest": {
+    "testEnvironment": "node"
+  },
   "scripts": {
     "start": "node server.js",
     "lint": "eslint .",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
-
-  "jest": {
-    "testEnvironment": "node"
-  },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BySnoO/cours-notes-api.git"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "bugs": {
     "url": "https://github.com/BySnoO/cours-notes-api/issues"
   },
-
   "homepage": "https://github.com/BySnoO/cours-notes-api#readme",
-
   "dependencies": {
     "express": "^5.2.1",
     "marked": "^17.0.3"
   },
-
   "devDependencies": {
-    "@eslint/js": "^9.0.0",
+    "@eslint/js": "^9.39.3",
     "eslint": "^10.0.0",
     "globals": "^16.0.0",
     "jest": "^30.2.0",
