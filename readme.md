@@ -1,1 +1,1 @@
-le projet est un super projet géré uniquement par un homme surpuissant.
+le projet est un super projet géré uniquement par un homme surpuissant. (très charismatique)
